@@ -46,6 +46,19 @@ namespace Linq01
             //}
             #endregion
 
+            #region Question05
+            //var products = Source.ProductList.Select
+            //(p => new { 
+            //Name =p.ProductName, Price = p.UnitPrice ,
+            //StockStatus = p.UnitsInStock > 0 ? "Available":"Out of stock " 
+            //});
+
+            //foreach(var product in products)
+            //{
+            //    Console.WriteLine($"Product Name :{product.Name},Price :{product.Price},Stock Status :{product.StockStatus}");
+            //}
+
+            #endregion
         }
     }
 }
