@@ -59,6 +59,15 @@ namespace Linq01
             //}
 
             #endregion
+
+            #region Question06
+            //var indexedProducts = Source.ProductList.Select((p, i) => $"{i + 1} . {p.ProductName}");
+
+            //foreach(var product in indexedProducts)
+            //{
+            //    Console.WriteLine(product);
+            //}
+            #endregion
         }
     }
 }
