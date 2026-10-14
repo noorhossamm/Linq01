@@ -18,6 +18,15 @@ namespace Linq01
 
             #endregion
 
+            #region Question02
+            //var names = Source.ProductList.Select(p => p.ProductName);
+
+            //foreach(var name in names)
+            //{
+            //    Console.WriteLine(name);
+            //}
+            #endregion
+
         }
     }
 }
