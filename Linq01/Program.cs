@@ -27,6 +27,15 @@ namespace Linq01
             //}
             #endregion
 
+            #region Question03
+            //var cheapProducts = Source.ProductList.Where(p => p.UnitPrice >= 10 && p.UnitPrice <= 30);
+
+            //foreach(var product in cheapProducts)
+            //{
+            //    Console.WriteLine(product);
+            //}
+            #endregion
+
         }
     }
 }
